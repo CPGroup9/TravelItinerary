@@ -37,4 +37,4 @@ Activity Details
 
 ##Wireframes:
 Wireframes are available [here](https://projects.invisionapp.com/share/Y589YHDER#/screens/181202456_Untitled_1)
-
+(http://i.imgur.com/AewV4LF.gif)
