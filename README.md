@@ -1,6 +1,12 @@
 # Venture - Travel Itinerary  
 
-Venture is the travel itinerary for passionate travelers. Users can select from a list of popular travel destination, select the length of their trip, and can view an itinerary sourced by popular destinations from Yelp. Users can then share their trip itinerary with friends. 
+Venture creates and organizes travel plans for passionate travelers where users can: 
+- select from a list of popular travel destinations
+- select the length of their trip
+- name their trip
+- view information about their destination
+- view a tailored itinerary sourced by popular destinations from Yelp
+- share their trip itinerary with friends they're traveling with 
 
 Extra functionality:
 - User can store their flight details, lodging, and rental car information
